@@ -1,12 +1,12 @@
 {
-    "ownerNumber": [],
+    "ownerNumber": ["255718278672"],
     "teamNumber": [],
-    "timeZone": "Asia/Jakarta",
+    "timeZone": "Africa/Dar_es_Salaam",
     "prefix": ".",
     "maintenance": [],
     "stickers": {
-        "author": "Instagram : ini.tobz",
-        "packname": "Made by ChisatoBOT"
+        "author": "Dvaty",
+        "packname": "Made by Dvary bot"
     },
     "settings": {
         "ownerNotifyOnline": false,
